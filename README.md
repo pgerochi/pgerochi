@@ -8,29 +8,6 @@
 
 ---
 
-I build engineering teams that ship under regulation, and the AI systems that ride on top of them. Previously cut major incidents at Loblaw Digital's digital-health org from **50 a year to 1**, shipped **Canada's first PHIPA-compliant GLP-1 chatbot**, and got **70% of developers using AI in their day-to-day within 30 days**. Now running [**Zero One Stack**](https://www.zeroonestack.com/) — multi-agent and document-intelligence systems for regulated and enterprise buyers.
-
-Based in Toronto.
-
-### Currently
-
-- **Shipping** [Verx](https://www.zeroonestack.com/) — multi-agent dependency intelligence for monorepos. ~12 hrs/team → under 30 min per sprint.
-- **Building** Sertus — checkpoint-resumable document intelligence for Canadian public-sector agreements. Survives serverless timeouts, hybrid model routing.
-- **Designing** Omera — consumer AI persona platform on Claude Managed Agents. Ritual, not transaction.
-
-### Open to
-
-Founder seats · technical co-founder roles (pre-seed to Series A) · selective AI advisory in regulated industries.
-
-### Track record
-
-| | |
-|---|---|
-| **50 → 1** | major prod incidents/year at Loblaw Digital (60 engineers under PHIPA/PIPEDA) |
-| **70%** | AI-native developer adoption across the engineering org, inside 30 days |
-| **3 sprints** | to stabilize an underperforming org at Scotiabank (3 teams, 7 apps, 20 reports) |
-| **1st in Canada** | PHIPA-compliant GLP-1 chatbot, shipped at Shoppers Drug Mart |
-
 ### Stack I reach for
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
