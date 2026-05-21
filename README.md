@@ -26,6 +26,6 @@
 <p align="left">
   <a href="https://peonygerochi.vercel.app/"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
   <a href="https://www.zeroonestack.com/"><img src="https://img.shields.io/badge/Zero%20One%20Stack-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Zero One Stack" /></a>
-  <a href="https://www.linkedin.com/in/peonygerochi/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/peony/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
   <a href="mailto:peonygerochi@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 </p>
